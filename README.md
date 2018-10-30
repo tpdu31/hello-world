@@ -1,3 +1,3 @@
 # hello-world
 CFG project repository
-Theiviya, undergraduate student learnint HTML/CSS.
+Theiviya, undergraduate student learning HTML/CSS.
